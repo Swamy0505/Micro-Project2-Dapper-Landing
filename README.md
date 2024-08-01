@@ -7,7 +7,7 @@ I had to implement following features.
 3.Make chatbot fixed to the pages.
 
 
-![desktop](file:///C:/Users/kumar/kumar/Micro-Project-2-master/Micro-Project-2-master/index.html)
+![desktop](https://swamy0505.github.io/Micro-project2-dapper-landing/)
 
 I made this project Using HTML and CSS.
  
